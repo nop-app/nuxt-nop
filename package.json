@@ -1,6 +1,7 @@
 {
   "name": "@nop-app/nuxt-nop",
   "version": "2.0.0",
+  "description": "Nuxt plugin for Nop",
   "main": "src/module.js",
   "repository": "git@github.com:nop-app/nuxt-nop.git",
   "author": "danilopolani <danilo.polani@gmail.com>",
