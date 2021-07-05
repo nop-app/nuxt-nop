@@ -1,0 +1,15 @@
+{
+  "name": "@nop-app/nuxt-nop",
+  "version": "2.0.0",
+  "main": "src/module.js",
+  "repository": "git@github.com:nop-app/nuxt-nop.git",
+  "author": "danilopolani <danilo.polani@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@nop-app/vue-nop": "^2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
