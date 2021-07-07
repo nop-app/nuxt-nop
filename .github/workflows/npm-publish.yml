@@ -17,8 +17,6 @@ jobs:
         run: npm install -g yarn
       - name: Install deps
         run: yarn
-      - name: Build dist
-        run: yarn build
       - name: Publish to npm
         run: npm publish
         env:
