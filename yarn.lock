@@ -3,6 +3,6 @@
 
 
 "@nop-app/vue-nop@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@nop-app/vue-nop/-/vue-nop-2.0.0.tgz#6e0f5152971b0e204008cdbb11feb52e3fed2210"
-  integrity sha512-wFFDiuUDk1SRoi8poSD1FuzaH7/B8ylXftgyRBvsP9Rf9xEUOLinvpmKVnEi/KnhqWuV3bvjE9tygdQwm8Z9GQ==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@nop-app/vue-nop/-/vue-nop-2.1.0.tgz#5d52a3806a2f661c8958a8b5603c517cb90d35e8"
+  integrity sha512-GnvYgMW3eQzlzGxGEKWpU4zSjX64jjISb/K64f0Nqf5/EILEYj1ZHEZnwOwoQkLv8W/gvw39znjWgMXCwKX3Ig==
