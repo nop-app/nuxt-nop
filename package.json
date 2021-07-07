@@ -1,6 +1,6 @@
 {
   "name": "@nop-app/nuxt-nop",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "description": "Nuxt plugin for Nop",
   "main": "src/module.js",
   "repository": "git@github.com:nop-app/nuxt-nop.git",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@nop-app/vue-nop": "^2.0.0"
+    "@nop-app/vue-nop": "^2.1.1"
   },
   "publishConfig": {
     "access": "public"
